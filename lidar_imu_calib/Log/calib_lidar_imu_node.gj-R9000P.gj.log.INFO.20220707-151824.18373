@@ -1,0 +1,21 @@
+Log file created at: 2022/07/07 15:18:24
+Running on machine: gj-R9000P
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0707 15:18:24.231844 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:24.331921 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:24.431524 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:24.531976 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:24.631129 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:24.730906 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:24.831737 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:24.931120 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.031284 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.131764 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.232039 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.331559 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.431695 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.531812 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.630932 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.730948 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.831225 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据
+I0707 15:18:25.931175 18373 cloud_subscriber.cpp:26] 得到ＩＭＵ数据

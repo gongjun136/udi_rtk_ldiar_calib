@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::IMUData::SyncData" name="lidar_imu_calib::IMUData::SyncData">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1IMUData.html#ac871a70889348bccada5d400953c53c6" title="lidar_imu_calib::IMUData\l::Interpolation" alt="" coords="223,5,392,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1IMUData_1_1Orientation.html#a4bbca97ff8371acc010a2d881d38f415" title="lidar_imu_calib::IMUData\l::Orientation::Normlize" alt="" coords="440,5,609,47"/>
+</map>

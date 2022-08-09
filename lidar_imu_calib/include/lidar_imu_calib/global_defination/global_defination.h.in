@@ -1,0 +1,10 @@
+#ifndef GLOBAL_DEFINATION_H_IN_
+#define GLOBAL_DEFINATION_H_IN_
+
+#include <string>
+
+namespace lidar_imu_calib{
+    const std::string WORK_SPACE_PATH = "@WORK_SPACE_PATH@";
+}
+#endif
+

@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::InitOrientationFlow" name="lidar_imu_calib::InitOrientationFlow">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1CloudData.html" title="{lidar_imu_calib::CloudData\n|+ time\l+ cloud_ptr\l|+ CloudData()\l}" alt="" coords="5,13,184,105"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1PoseData.html" title="{lidar_imu_calib::PoseData\n|+ time\l+ pose\l+ vel\l|+ GetQuaternion()\l}" alt="" coords="209,5,383,112"/>
+</map>

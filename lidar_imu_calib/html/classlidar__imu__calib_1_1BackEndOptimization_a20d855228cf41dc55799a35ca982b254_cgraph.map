@@ -1,0 +1,6 @@
+<map id="lidar_imu_calib::BackEndOptimization::BackEndOptimization" name="lidar_imu_calib::BackEndOptimization::BackEndOptimization">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1BackEndOptimization.html#ad39ef5aa4796552a84a7862b5978533b" title="lidar_imu_calib::BackEnd\lOptimization::InitParam" alt="" coords="318,5,487,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1BackEndOptimization.html#ad4eac3009aadf794b6ee478d53d0ebe5" title="lidar_imu_calib::BackEnd\lOptimization::InitFilter" alt="" coords="318,71,487,112"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1BackEndOptimization.html#a2e9ec1d1afc6ca20a387950ff50c0454" title="lidar_imu_calib::BackEnd\lOptimization::InitLocalMapSegmenter" alt="" coords="283,136,523,177"/>
+<area shape="rect" id="node5" href="$classlidar__imu__calib_1_1BackEndOptimization.html#aaaa0b197f1e8d54b5b07538913cdf9b5" title="lidar_imu_calib::BackEnd\lOptimization::InitRegistration" alt="" coords="307,201,498,243"/>
+</map>

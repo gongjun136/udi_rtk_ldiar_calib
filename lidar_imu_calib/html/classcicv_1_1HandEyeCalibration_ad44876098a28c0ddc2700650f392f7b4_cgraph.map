@@ -1,0 +1,7 @@
+<map id="cicv::HandEyeCalibration::estimateHandEyeScrew" name="cicv::HandEyeCalibration::estimateHandEyeScrew">
+<area shape="rect" id="node2" href="$namespacecicv.html#aa8db5c2d7d4262bf0940039d5b7075d3" title="cicv::AxisAngleToSTranspose\lBlockOfT" alt="" coords="224,35,423,76"/>
+<area shape="rect" id="node6" href="$classcicv_1_1DualQuaternion.html#a24c1cbd35a0c224feb392896b35f5fd3" title="cicv::DualQuaternion\l::toMatrix" alt="" coords="251,100,395,141"/>
+<area shape="rect" id="node3" href="$namespacecicv.html#afa1d853fa1f35ce38e89177b44b751a0" title="cicv::AngleAxisAndTranslation\lToScrew" alt="" coords="483,5,683,47"/>
+<area shape="rect" id="node4" href="$namespacecicv.html#adb393a3a7a45e006500bc1819ff852d6" title="cicv::ScrewToStransposeBlockofT" alt="" coords="471,71,695,98"/>
+<area shape="rect" id="node5" href="$namespacecicv.html#a8f4bba7c87a75491c7be201dc7dcafc4" title="cicv::skew" alt="" coords="743,71,828,98"/>
+</map>

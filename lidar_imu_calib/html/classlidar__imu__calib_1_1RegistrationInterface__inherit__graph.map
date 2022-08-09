@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::RegistrationInterface" name="lidar_imu_calib::RegistrationInterface">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1ICPRegistration.html" title="{lidar_imu_calib::ICPRegistration\n|&#45; icp_ptr_\l|+ ICPRegistration()\l+ ICPRegistration()\l+ SetInputTarget()\l+ ScanMatch()\l&#45; SetRegistrationParam()\l}" alt="" coords="5,197,215,333"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1NDTRegistration.html" title="{lidar_imu_calib::NDTRegistration\n|&#45; ndt_ptr_\l|+ NDTRegistration()\l+ NDTRegistration()\l+ SetInputTarget()\l+ ScanMatch()\l+ GetFitnessScore()\l&#45; SetRegistrationParam()\l}" alt="" coords="239,189,453,340"/>
+</map>

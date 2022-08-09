@@ -1,0 +1,3 @@
+<map id="lidar_imu_calib::NDTRegistration" name="lidar_imu_calib::NDTRegistration">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1RegistrationInterface.html" title="{lidar_imu_calib::Registration\lInterface\n||+ ~RegistrationInterface()\l+ SetInputTarget()\l+ ScanMatch()\l+ GetFitnessScore()\l}" alt="" coords="19,5,206,141"/>
+</map>

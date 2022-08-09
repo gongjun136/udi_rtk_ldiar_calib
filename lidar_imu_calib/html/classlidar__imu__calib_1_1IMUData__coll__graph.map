@@ -1,0 +1,5 @@
+<map id="lidar_imu_calib::IMUData" name="lidar_imu_calib::IMUData">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1IMUData_1_1Orientation.html" title="{lidar_imu_calib::IMUData\l::Orientation\n|+ x\l+ y\l+ z\l+ w\l|+ Normlize()\l}" alt="" coords="5,5,175,141"/>
+<area shape="rect" id="node3" href="$structlidar__imu__calib_1_1IMUData_1_1AngularVelocity.html" title="{lidar_imu_calib::IMUData\l::AngularVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="199,13,368,134"/>
+<area shape="rect" id="node4" href="$structlidar__imu__calib_1_1IMUData_1_1LinearAcceleration.html" title="{lidar_imu_calib::IMUData\l::LinearAcceleration\n|+ x\l+ y\l+ z\l|}" alt="" coords="392,13,561,134"/>
+</map>

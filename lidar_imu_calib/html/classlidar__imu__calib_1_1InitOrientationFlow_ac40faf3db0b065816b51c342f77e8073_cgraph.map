@@ -1,0 +1,5 @@
+<map id="lidar_imu_calib::InitOrientationFlow::Solve" name="lidar_imu_calib::InitOrientationFlow::Solve">
+<area shape="rect" id="node2" href="$namespacelidar__imu__calib.html#a5c95cb6fec109a5dbf0363a00c13ec5b" title="构建左乘矩阵 " alt="" coords="255,5,421,47"/>
+<area shape="rect" id="node4" href="$namespacelidar__imu__calib.html#a5279af6a08a0e51196d03f2dd2b14580" title="构建右乘矩阵 " alt="" coords="251,71,425,112"/>
+<area shape="rect" id="node3" href="$namespacelidar__imu__calib.html#a4fae4fe2a240142c5c605545b683f519" title="去反对称矩阵 " alt="" coords="473,46,685,73"/>
+</map>

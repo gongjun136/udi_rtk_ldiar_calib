@@ -1,0 +1,10 @@
+<map id="lidar_imu_calib::InitOrientationFlow::HasInitOrientation" name="lidar_imu_calib::InitOrientationFlow::HasInitOrientation">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#aad03daab4098989c50a658bc69380479" title="lidar_imu_calib::InitOrientation\lFlow::PublishData" alt="" coords="260,5,457,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#ac2ce2f2d7e58a31a5efd3e2d71bf9eed" title="lidar_imu_calib::InitOrientation\lFlow::PublishInitOrientation" alt="" coords="260,71,457,112"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#a7c7fd3678c1e491b26610c9f28be20b1" title="lidar_imu_calib::InitOrientation\lFlow::UpdateGNSSRelativePose" alt="" coords="251,136,467,177"/>
+<area shape="rect" id="node5" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#aca52761520363c684fe3284434d5155c" title="lidar_imu_calib::InitOrientation\lFlow::UpdateLaserRelativePose" alt="" coords="253,201,464,243"/>
+<area shape="rect" id="node6" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#ac40faf3db0b065816b51c342f77e8073" title="lidar_imu_calib::InitOrientation\lFlow::Solve" alt="" coords="260,267,457,308"/>
+<area shape="rect" id="node7" href="$namespacelidar__imu__calib.html#a5c95cb6fec109a5dbf0363a00c13ec5b" title="构建左乘矩阵 " alt="" coords="519,233,685,275"/>
+<area shape="rect" id="node9" href="$namespacelidar__imu__calib.html#a5279af6a08a0e51196d03f2dd2b14580" title="构建右乘矩阵 " alt="" coords="515,299,689,340"/>
+<area shape="rect" id="node8" href="$namespacelidar__imu__calib.html#a4fae4fe2a240142c5c605545b683f519" title="去反对称矩阵 " alt="" coords="737,274,949,301"/>
+</map>

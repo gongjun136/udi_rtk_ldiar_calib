@@ -1,0 +1,5 @@
+<map id="lidar_imu_calib::BoxFilter::CalculateEdge" name="lidar_imu_calib::BoxFilter::CalculateEdge">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1BoxFilter.html#a96e1aae240acaeb92483e13765b8cc7e" title="lidar_imu_calib::BoxFilter\l::SetSize" alt="" coords="221,5,389,47"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1BoxFilter.html#ae25fe4a390d370f649425b27749ea892" title="lidar_imu_calib::BoxFilter\l::SetOrigin" alt="" coords="221,71,389,112"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1BoxFilter.html#a88365b16b59f6d97669d1fbd9c260586" title="lidar_imu_calib::BoxFilter\l::BoxFilter" alt="" coords="437,5,605,47"/>
+</map>

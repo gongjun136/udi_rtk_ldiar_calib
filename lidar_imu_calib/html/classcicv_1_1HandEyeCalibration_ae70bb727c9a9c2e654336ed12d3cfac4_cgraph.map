@@ -1,0 +1,5 @@
+<map id="cicv::HandEyeCalibration::estimateHandEyeScrewRefine" name="cicv::HandEyeCalibration::estimateHandEyeScrewRefine">
+<area shape="rect" id="node2" href="$classcicv_1_1DualQuaternion.html#a24c1cbd35a0c224feb392896b35f5fd3" title="cicv::DualQuaternion\l::toMatrix" alt="" coords="280,5,424,47"/>
+<area shape="rect" id="node3" href="$classcicv_1_1DualQuaternion.html#ad2fcbdb8da9904285aa4b8fec006f3ab" title="cicv::DualQuaternion\l::real" alt="" coords="280,71,424,112"/>
+<area shape="rect" id="node4" href="$classcicv_1_1PoseError.html#ad6c046b192a2e0d3176cd30f694e4e50" title="cicv::PoseError::PoseError" alt="" coords="263,137,441,163"/>
+</map>

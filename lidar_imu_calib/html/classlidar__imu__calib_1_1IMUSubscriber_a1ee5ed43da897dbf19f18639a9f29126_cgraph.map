@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::IMUSubscriber::IMUSubscriber" name="lidar_imu_calib::IMUSubscriber::IMUSubscriber">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1IMUSubscriber.html#a1e3324ab8cac5fe3ae59d9515ff6d0c5" title="lidar_imu_calib::IMUSubscriber\l::msg_callback" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1IMUSubscriber.html#af216c08cbb9405f6225d62436ecb0a73" title="lidar_imu_calib::IMUSubscriber\l::Convert2IMUData" alt="" coords="507,5,709,47"/>
+</map>

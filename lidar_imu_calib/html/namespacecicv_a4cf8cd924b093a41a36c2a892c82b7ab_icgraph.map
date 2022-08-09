@@ -1,0 +1,5 @@
+<map id="cicv::QuaternionToRotation" name="cicv::QuaternionToRotation">
+<area shape="rect" id="node2" href="$namespacecicv.html#a635cd9c5a76f9b04f06494d59d6ff9bb" title="cicv::QuaternionToRotation" alt="" coords="259,5,440,32"/>
+<area shape="rect" id="node3" href="$namespacecicv.html#ac96d8cc01b4b41c33c5a0bc7469c2610" title="cicv::poseWithCartesianTranslation" alt="" coords="235,56,464,83"/>
+<area shape="rect" id="node4" href="$namespacecicv.html#a6eea6ab7c31e54c532938a212b5f5dfe" title="cicv::poseWithSphericalTranslation" alt="" coords="236,107,463,133"/>
+</map>

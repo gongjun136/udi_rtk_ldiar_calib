@@ -1,0 +1,27 @@
+var EigenUtils_8h =
+[
+    [ "AngleAxisAndTranslationToScrew", "EigenUtils_8h.html#afa1d853fa1f35ce38e89177b44b751a0", null ],
+    [ "AngleAxisToQuaternion", "EigenUtils_8h.html#adab6357145c02fa3ee649fe2f362a950", null ],
+    [ "AngleAxisToQuaternion", "EigenUtils_8h.html#a735b79dd28c37d21d95308a6a78355ad", null ],
+    [ "AngleAxisToRotationMatrix", "EigenUtils_8h.html#a9dd7d67cd90a59e7f70dcceebffe06ee", null ],
+    [ "estimate3DRigidSimilarityTransform", "EigenUtils_8h.html#ab0a894f594d97de25b1e54656aefe636", null ],
+    [ "estimate3DRigidTransform", "EigenUtils_8h.html#abf497b6a9b4a0cdc95548a1717684c88", null ],
+    [ "homogeneousTransform", "EigenUtils_8h.html#ae9d240245be74ec95aafe6885d33fe5d", null ],
+    [ "mat2RPY", "EigenUtils_8h.html#ad8ee521895e59d6fb3768f1e5c6dbdc7", null ],
+    [ "poseWithCartesianTranslation", "EigenUtils_8h.html#ac96d8cc01b4b41c33c5a0bc7469c2610", null ],
+    [ "poseWithSphericalTranslation", "EigenUtils_8h.html#a6eea6ab7c31e54c532938a212b5f5dfe", null ],
+    [ "QuaternionMultMatLeft", "EigenUtils_8h.html#a13b7cb0136d121c6424ef69656545c54", null ],
+    [ "QuaternionMultMatRight", "EigenUtils_8h.html#ac44643e9bbb77f0c301d87341d675200", null ],
+    [ "QuaternionToAngleAxis", "EigenUtils_8h.html#a77d0ffa25717d8aa4aef92c2e95414e8", null ],
+    [ "QuaternionToRotation", "EigenUtils_8h.html#a635cd9c5a76f9b04f06494d59d6ff9bb", null ],
+    [ "QuaternionToRotation", "EigenUtils_8h.html#a4cf8cd924b093a41a36c2a892c82b7ab", null ],
+    [ "RotationToAngleAxis", "EigenUtils_8h.html#a5557c930f1e8827493299ebe6f26b504", null ],
+    [ "RPY2mat", "EigenUtils_8h.html#a9f95de1a5473fad449cd1c8a3bf620ab", null ],
+    [ "sampsonError", "EigenUtils_8h.html#a914b1469ee7683b975fad75f13f9471e", null ],
+    [ "sampsonError", "EigenUtils_8h.html#aadca9ec53386f88f0141c7a01fdece08", null ],
+    [ "sampsonError", "EigenUtils_8h.html#a475f9d2a5ea313f8c8e78c9dfb936d52", null ],
+    [ "skew", "EigenUtils_8h.html#a8f4bba7c87a75491c7be201dc7dcafc4", null ],
+    [ "sqrtm", "EigenUtils_8h.html#afdfdf3b53f28d425281b22fd1f32c401", null ],
+    [ "square", "EigenUtils_8h.html#aba28ec15b16b4c075c7a99993f8f5393", null ],
+    [ "transformPoint", "EigenUtils_8h.html#aaa8683d227c07bd24e60895aca1df3bf", null ]
+];

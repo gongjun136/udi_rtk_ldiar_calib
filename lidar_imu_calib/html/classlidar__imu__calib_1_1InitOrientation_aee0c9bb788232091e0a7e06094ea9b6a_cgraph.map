@@ -1,0 +1,6 @@
+<map id="lidar_imu_calib::InitOrientation::InitOrientation" name="lidar_imu_calib::InitOrientation::InitOrientation">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1InitOrientation.html#a72f3d2fec9c0a33ce54cf0df14b625ae" title="lidar_imu_calib::InitOrientation\l::InitParam" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1InitOrientation.html#ab6d7920e80ad3ce4775fb260ab773b36" title="lidar_imu_calib::InitOrientation\l::InitRegistration" alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1InitOrientation.html#abed70bd97c2900825754c316c4051a96" title="lidar_imu_calib::InitOrientation\l::InitFilter" alt="" coords="251,136,448,177"/>
+<area shape="rect" id="node5" href="$classlidar__imu__calib_1_1InitOrientation.html#aa101684610e95abd930bea9a0b14baf9" title="lidar_imu_calib::InitOrientation\l::InitDataPath" alt="" coords="251,201,448,243"/>
+</map>

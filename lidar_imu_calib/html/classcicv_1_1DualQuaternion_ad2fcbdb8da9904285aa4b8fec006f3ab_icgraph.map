@@ -1,0 +1,9 @@
+<map id="cicv::DualQuaternion::real" name="cicv::DualQuaternion::real">
+<area shape="rect" id="node2" href="$classcicv_1_1DualQuaternion.html#a1befbf23db12d0afd65f1afb8c76298c" title="cicv::DualQuaternion::exp" alt="" coords="215,5,389,32"/>
+<area shape="rect" id="node3" href="$classcicv_1_1DualQuaternion.html#a2230a7eb936dd5d3183a1118e8b46473" title="cicv::DualQuaternion::log" alt="" coords="217,56,387,83"/>
+<area shape="rect" id="node4" href="$namespacecicv.html#a3259a954482d008a0506d7ea6b27813e" title="cicv::operator*" alt="" coords="249,107,355,133"/>
+<area shape="rect" id="node5" href="$namespacecicv.html#abba01cabb88f8d2dcdc2aa6f835ebfc1" title="cicv::expdq" alt="" coords="257,157,347,184"/>
+<area shape="rect" id="node6" href="$namespacecicv.html#a31597481b66f21931ade0b096cb4950b" title="cicv::logdq" alt="" coords="259,208,345,235"/>
+<area shape="rect" id="node7" href="$classcicv_1_1PoseError.html#a672e4a6bca1d115cac8a62925970ffcd" title="cicv::PoseError::operator()" alt="" coords="215,259,389,285"/>
+<area shape="rect" id="node8" href="$classcicv_1_1HandEyeCalibration.html#a2e1701853652c72fb4066248ee2394e9" title="cicv::HandEyeCalibration\l::estimateHandEyeScrewRefine" alt="" coords="197,310,407,351"/>
+</map>

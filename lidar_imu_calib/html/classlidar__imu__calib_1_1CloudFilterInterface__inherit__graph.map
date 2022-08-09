@@ -1,0 +1,5 @@
+<map id="lidar_imu_calib::CloudFilterInterface" name="lidar_imu_calib::CloudFilterInterface">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1BoxFilter.html" title="{lidar_imu_calib::BoxFilter\n|&#45; pcl_box_filter_\l&#45; origin_\l&#45; size_\l&#45; edge_\l|+ BoxFilter()\l+ BoxFilter()\l+ Filter()\l+ SetSize()\l+ SetOrigin()\l+ GetEdge()\l&#45; CalculateEdge()\l}" alt="" coords="5,160,173,369"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1NoFilter.html" title="{lidar_imu_calib::NoFilter\n||+ NoFilter()\l+ Filter()\l}" alt="" coords="197,219,360,311"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1VoxelFilter.html" title="{lidar_imu_calib::VoxelFilter\n|&#45; voxel_filter_\l|+ VoxelFilter()\l+ VoxelFilter()\l+ Filter()\l&#45; SetFilterParam()\l}" alt="" coords="384,204,563,325"/>
+</map>

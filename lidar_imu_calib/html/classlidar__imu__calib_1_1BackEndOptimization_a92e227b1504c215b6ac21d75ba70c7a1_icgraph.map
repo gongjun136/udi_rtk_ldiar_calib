@@ -1,0 +1,5 @@
+<map id="lidar_imu_calib::BackEndOptimization::ResetLocalMap" name="lidar_imu_calib::BackEndOptimization::ResetLocalMap">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1BackEndOptimization.html#ae82b9c991fe626e8254d3da51b215c82" title="lidar_imu_calib::BackEnd\lOptimization::SetInitPoseAnd\lLocalMap" alt="" coords="278,5,473,61"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1BackEndOptimization.html#a74238f5977f98a61a4a53cb97ac20ddf" title="lidar_imu_calib::BackEnd\lOptimization::HasInited" alt="" coords="551,46,720,87"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1BackEndOptimization.html#a4dfe7672253e6d46a280062bfc15b13c" title="lidar_imu_calib::BackEnd\lOptimization::UpdateLaserRelativePose" alt="" coords="248,137,503,178"/>
+</map>

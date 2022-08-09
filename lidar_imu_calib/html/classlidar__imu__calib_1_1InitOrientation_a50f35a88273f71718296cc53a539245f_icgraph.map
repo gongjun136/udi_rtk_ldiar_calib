@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::InitOrientation::UpdateWithNewFrame" name="lidar_imu_calib::InitOrientation::UpdateWithNewFrame">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1InitOrientation.html#a47fc6bcb32dd9c401946288a24e8d7e3" title="lidar_imu_calib::InitOrientation\l::Update" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1InitOrientation.html#ac6c6e5fe60261fedec031ef00af77ce5" title="lidar_imu_calib::InitOrientation\l::GetCurrentKeyScan" alt="" coords="251,71,448,112"/>
+</map>

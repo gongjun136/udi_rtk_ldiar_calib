@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="rviz"  type="rviz"  name="rviz"  args="-d $(find lidar_imu_calib)/rviz/calib.rviz"></node>
+    <node pkg="lidar_imu_calib" type="data_pretreat_node" name="data_pretreat_node" output="screen"></node>
+    <node pkg="lidar_imu_calib" type="init_orientation_node" name="init_orientation_node" output="screen"></node>
+    <node pkg="lidar_imu_calib" type="back_end_optimization_node" name="back_end_optimization_node" output="screen"></node>
+<!--     <node pkg="lidar_imu_calib" type="calib_lidar_imu_node" name="calib_lidar_imu_node" output="screen"></node> -->
+</launch>

@@ -1,0 +1,8 @@
+<map id="lidar_imu_calib::InitOrientationFlow::GetInitOrientation" name="lidar_imu_calib::InitOrientationFlow::GetInitOrientation">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#aca52761520363c684fe3284434d5155c" title="更新雷达相对位姿 " alt="" coords="253,5,464,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#a7c7fd3678c1e491b26610c9f28be20b1" title="更新gnss相对位姿 " alt="" coords="251,71,467,112"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1InitOrientationFlow.html#ac40faf3db0b065816b51c342f77e8073" title="svd计算初始旋转外参 " alt="" coords="260,136,457,177"/>
+<area shape="rect" id="node5" href="$namespacelidar__imu__calib.html#a5c95cb6fec109a5dbf0363a00c13ec5b" title="构建左乘矩阵 " alt="" coords="519,103,685,144"/>
+<area shape="rect" id="node7" href="$namespacelidar__imu__calib.html#a5279af6a08a0e51196d03f2dd2b14580" title="构建右乘矩阵 " alt="" coords="515,168,689,209"/>
+<area shape="rect" id="node6" href="$namespacelidar__imu__calib.html#a4fae4fe2a240142c5c605545b683f519" title="去反对称矩阵 " alt="" coords="737,143,949,170"/>
+</map>

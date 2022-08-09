@@ -1,0 +1,15 @@
+<map id="lidar_imu_calib::BackEndOptimizationFlow::Run" name="lidar_imu_calib::BackEndOptimizationFlow::Run">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#a2a9eddd11e25e39b6f3d00eee6d12e33" title="接收初始旋转外参 " alt="" coords="223,5,433,47"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#a60879142df153b52390bae1c8e822019" title="读取数据 " alt="" coords="233,71,423,112"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#a547385cec1ab5409d8793d65001ddaa7" title="判断是否有数据 " alt="" coords="237,136,419,177"/>
+<area shape="rect" id="node5" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#ab8be61d629ff27d54f08acd34e895b8a" title="判断数据是否有效 " alt="" coords="234,201,422,243"/>
+<area shape="rect" id="node6" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#a8da6f10152b88f66c76f719a9a299f8f" title="手眼标定，优化得到外参 " alt="" coords="237,267,419,308"/>
+<area shape="rect" id="node7" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#a4eee9d2b9445667943d9efdf628f5701" title="lidar_imu_calib::BackEnd\lOptimizationFlow::eigenRotTo\lEigenVector3dAngleAxis" alt="" coords="481,186,680,242"/>
+<area shape="rect" id="node8" href="$classcicv_1_1HandEyeCalibration.html#a72aa61008c402756f3bd586178584586" title="cicv::HandEyeCalibration\l::setVerbose" alt="" coords="495,267,666,308"/>
+<area shape="rect" id="node9" href="$classcicv_1_1HandEyeCalibration.html#ad44876098a28c0ddc2700650f392f7b4" title="Estimate an unknown rigid transform using two matching series of changing known rigid transforms..." alt="" coords="495,332,666,373"/>
+<area shape="rect" id="node10" href="$namespacecicv.html#aa8db5c2d7d4262bf0940039d5b7075d3" title="cicv::AxisAngleToSTranspose\lBlockOfT" alt="" coords="728,299,927,340"/>
+<area shape="rect" id="node14" href="$classcicv_1_1DualQuaternion.html#a24c1cbd35a0c224feb392896b35f5fd3" title="cicv::DualQuaternion\l::toMatrix" alt="" coords="755,364,899,405"/>
+<area shape="rect" id="node11" href="$namespacecicv.html#afa1d853fa1f35ce38e89177b44b751a0" title="cicv::AngleAxisAndTranslation\lToScrew" alt="" coords="987,269,1187,311"/>
+<area shape="rect" id="node12" href="$namespacecicv.html#adb393a3a7a45e006500bc1819ff852d6" title="cicv::ScrewToStransposeBlockofT" alt="" coords="975,335,1199,362"/>
+<area shape="rect" id="node13" href="$namespacecicv.html#a8f4bba7c87a75491c7be201dc7dcafc4" title="cicv::skew" alt="" coords="1247,335,1332,362"/>
+</map>

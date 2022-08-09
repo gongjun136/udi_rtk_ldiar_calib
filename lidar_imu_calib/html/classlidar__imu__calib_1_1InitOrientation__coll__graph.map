@@ -1,0 +1,5 @@
+<map id="lidar_imu_calib::InitOrientation" name="lidar_imu_calib::InitOrientation">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1KeyFrame.html" title="{lidar_imu_calib::KeyFrame\n|+ time\l+ index\l+ pose\l|+ GetQuaternion()\l+ GetTranslation()\l}" alt="" coords="5,160,181,281"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1CloudData.html" title="{lidar_imu_calib::CloudData\n|+ time\l+ cloud_ptr\l|+ CloudData()\l}" alt="" coords="219,5,397,97"/>
+<area shape="rect" id="node4" href="$structlidar__imu__calib_1_1InitOrientation_1_1Frame.html" title="{lidar_imu_calib::InitOrientation\l::Frame\n|+ pose\l|}" alt="" coords="380,175,577,267"/>
+</map>

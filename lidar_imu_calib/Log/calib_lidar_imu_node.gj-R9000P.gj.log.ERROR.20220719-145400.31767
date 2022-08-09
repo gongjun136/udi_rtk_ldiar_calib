@@ -1,0 +1,6 @@
+Log file created at: 2022/07/19 14:54:00
+Running on machine: gj-R9000P
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0719 14:54:00.037202 31767 trust_region_minimizer.cc:73] Terminating: Residual and Jacobian evaluation failed.
+E0719 14:54:00.037935 31767 trajectory_manager.cpp:52] SO3轨迹无法使用，请缩短数据集时间
+E0719 14:54:00.040572 31767 calib_lidar_imu_flow.cpp:55] 初始化旋转失败！！！

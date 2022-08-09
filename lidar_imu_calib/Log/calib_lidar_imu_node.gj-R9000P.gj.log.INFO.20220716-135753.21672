@@ -1,0 +1,5 @@
+Log file created at: 2022/07/16 13:57:53
+Running on machine: gj-R9000P
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0716 13:57:53.478021 21672 calib_lidar_imu_flow.cpp:175] 数据集中没有lidar或imu数据
+E0716 13:57:53.478502 21672 calib_lidar_imu_flow.cpp:46] 读取数据失败！！！

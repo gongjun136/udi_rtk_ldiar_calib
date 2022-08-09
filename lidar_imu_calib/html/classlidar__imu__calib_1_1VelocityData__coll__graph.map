@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::VelocityData" name="lidar_imu_calib::VelocityData">
+<area shape="rect" id="node2" href="$structlidar__imu__calib_1_1VelocityData_1_1LinearVelocity.html" title="{lidar_imu_calib::Velocity\lData::LinearVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="5,5,168,127"/>
+<area shape="rect" id="node3" href="$structlidar__imu__calib_1_1VelocityData_1_1AngularVelocity.html" title="{lidar_imu_calib::Velocity\lData::AngularVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="192,5,355,127"/>
+</map>

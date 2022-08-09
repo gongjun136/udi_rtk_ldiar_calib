@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::BackEndOptimizationFlow::KeyFrameData" name="lidar_imu_calib::BackEndOptimizationFlow::KeyFrameData">
+<area shape="rect" id="node2" href="$structlidar__imu__calib_1_1BackEndOptimizationFlow_1_1KeyFrameData_1_1LinearVelocity.html" title="{lidar_imu_calib::BackEnd\lOptimizationFlow::KeyFrameData\l::LinearVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="5,5,224,141"/>
+<area shape="rect" id="node3" href="$structlidar__imu__calib_1_1BackEndOptimizationFlow_1_1KeyFrameData_1_1AngularVelocity.html" title="{lidar_imu_calib::BackEnd\lOptimizationFlow::KeyFrameData\l::AngularVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="248,5,467,141"/>
+</map>

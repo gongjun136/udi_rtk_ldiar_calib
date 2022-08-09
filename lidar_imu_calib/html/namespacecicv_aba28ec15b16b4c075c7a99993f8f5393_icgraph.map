@@ -1,0 +1,5 @@
+<map id="cicv::square" name="cicv::square">
+<area shape="rect" id="node2" href="$namespacecicv.html#a914b1469ee7683b975fad75f13f9471e" title="cicv::sampsonError" alt="" coords="181,5,315,32"/>
+<area shape="rect" id="node4" href="$classcicv_1_1HandEyeCalibration.html#afb62c73c32ccee9cc9300d1d1df46477" title="Initial hand&#45;eye screw estimate using fast but coarse Eigen::JacobiSVD. " alt="" coords="147,57,349,98"/>
+<area shape="rect" id="node3" href="$namespacecicv.html#a475f9d2a5ea313f8c8e78c9dfb936d52" title="cicv::sampsonError" alt="" coords="397,5,532,32"/>
+</map>

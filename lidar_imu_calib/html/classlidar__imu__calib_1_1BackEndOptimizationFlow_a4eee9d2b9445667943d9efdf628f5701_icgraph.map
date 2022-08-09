@@ -1,0 +1,4 @@
+<map id="lidar_imu_calib::BackEndOptimizationFlow::eigenRotToEigenVector3dAngleAxis" name="lidar_imu_calib::BackEndOptimizationFlow::eigenRotToEigenVector3dAngleAxis">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#a8da6f10152b88f66c76f719a9a299f8f" title="手眼标定，优化得到外参 " alt="" coords="252,13,435,54"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1BackEndOptimizationFlow.html#aa3e3fe8865f0dea565ed3f92e0d6ff21" title="主函数 " alt="" coords="483,13,652,54"/>
+</map>

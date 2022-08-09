@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classlidar__imu__calib_1_1RegistrationInterface.html" title="lidar_imu_calib::Registration\lInterface" alt="" coords="5,23,192,65"/>
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1ICPRegistration.html" title="lidar_imu_calib::ICPRegistration" alt="" coords="243,5,452,32"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1NDTRegistration.html" title="lidar_imu_calib::NDTRegistration" alt="" coords="240,56,455,83"/>
+</map>

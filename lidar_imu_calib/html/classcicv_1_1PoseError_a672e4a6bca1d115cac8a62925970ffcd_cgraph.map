@@ -1,0 +1,7 @@
+<map id="cicv::PoseError::operator()" name="cicv::PoseError::operator()">
+<area shape="rect" id="node2" href="$classcicv_1_1DualQuaternion.html#a5f6dd7894232eed82822cdee30bcc611" title="cicv::DualQuaternion\l::inverse" alt="" coords="228,37,372,79"/>
+<area shape="rect" id="node5" href="$classcicv_1_1DualQuaternion.html#ad2fcbdb8da9904285aa4b8fec006f3ab" title="cicv::DualQuaternion\l::real" alt="" coords="228,103,372,144"/>
+<area shape="rect" id="node6" href="$classcicv_1_1DualQuaternion.html#a5f0621dce669c10ff38831a0f75187b9" title="cicv::DualQuaternion\l::dual" alt="" coords="228,168,372,209"/>
+<area shape="rect" id="node3" href="$classcicv_1_1DualQuaternion.html#a79e118db00cdf53a020245af3c2a7898" title="cicv::DualQuaternion\l::conjugate" alt="" coords="420,5,564,47"/>
+<area shape="rect" id="node4" href="$classcicv_1_1DualQuaternion.html#acba9a274885c115fe363f5c7fb6eafe8" title="cicv::DualQuaternion\l::zeros" alt="" coords="420,71,564,112"/>
+</map>

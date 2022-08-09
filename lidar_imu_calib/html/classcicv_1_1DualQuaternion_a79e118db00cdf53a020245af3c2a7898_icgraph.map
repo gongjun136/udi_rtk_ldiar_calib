@@ -1,0 +1,6 @@
+<map id="cicv::DualQuaternion::conjugate" name="cicv::DualQuaternion::conjugate">
+<area shape="rect" id="node2" href="$classcicv_1_1DualQuaternion.html#a5f6dd7894232eed82822cdee30bcc611" title="cicv::DualQuaternion\l::inverse" alt="" coords="197,5,341,47"/>
+<area shape="rect" id="node4" href="$classcicv_1_1DualQuaternion.html#a6dedab4a4eefb24a603cafcfcc8c332b" title="cicv::DualQuaternion\l::transformPoint" alt="" coords="197,71,341,112"/>
+<area shape="rect" id="node5" href="$classcicv_1_1DualQuaternion.html#a5317325ea9ca0480cd01c469376028a2" title="cicv::DualQuaternion\l::transformVector" alt="" coords="197,136,341,177"/>
+<area shape="rect" id="node3" href="$classcicv_1_1PoseError.html#a672e4a6bca1d115cac8a62925970ffcd" title="cicv::PoseError::operator()" alt="" coords="389,13,564,39"/>
+</map>

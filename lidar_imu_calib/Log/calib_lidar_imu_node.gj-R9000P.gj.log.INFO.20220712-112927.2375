@@ -1,0 +1,9 @@
+Log file created at: 2022/07/12 11:29:27
+Running on machine: gj-R9000P
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0712 11:29:27.792665  2375 voxel_filter.cpp:28] 体素滤波参数:
+叶子大小0.6, 0.6, 0.6
+
+I0712 11:29:27.793188  2375 voxel_filter.cpp:28] 体素滤波参数:
+叶子大小1.3, 1.3, 1.3
+

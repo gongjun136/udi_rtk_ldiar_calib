@@ -1,0 +1,5 @@
+Log file created at: 2022/08/09 10:53:11
+Running on machine: gj
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F20220809 10:53:11.768430 31811 problem_impl.cc:532] Parameter block not found: 0x7fffa39859a0. You must add the parameter block to the problem before you can set its local parameterization.

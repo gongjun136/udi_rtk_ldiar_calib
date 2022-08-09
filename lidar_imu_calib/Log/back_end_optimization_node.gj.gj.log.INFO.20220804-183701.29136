@@ -1,0 +1,8 @@
+Log file created at: 2022/08/04 18:37:01
+Running on machine: gj
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20220804 18:37:01.979537 29136 back_end_optimization.cpp:189] New local map:-128.137,171.863,-108.326,191.674,-150.033,149.967
+
+I20220804 18:37:04.954171 29136 back_end_optimization.cpp:189] New local map:-27.3821,272.618,-80.1975,219.802,-150.732,149.268
+

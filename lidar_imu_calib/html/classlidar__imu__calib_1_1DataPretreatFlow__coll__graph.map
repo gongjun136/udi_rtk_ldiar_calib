@@ -1,0 +1,11 @@
+<map id="lidar_imu_calib::DataPretreatFlow" name="lidar_imu_calib::DataPretreatFlow">
+<area shape="rect" id="node2" href="$classlidar__imu__calib_1_1GNSSData.html" title="{lidar_imu_calib::GNSSData\n|+ time\l+ longitude\l+ latitude\l+ altitude\l+ local_E\l+ local_N\l+ local_U\l+ status\l+ service\l+ origin_longitude\l+ origin_latitude\l+ origin_altitude\l&#45; geo_converter\l&#45; origin_position_inited\l|+ InitOriginPosition()\l+ UpdateXYZ()\l+ SyncData()\l}" alt="" coords="5,204,188,501"/>
+<area shape="rect" id="node3" href="$classlidar__imu__calib_1_1IMUData.html" title="{lidar_imu_calib::IMUData\n|+ time\l|+ GetOrientationMatrix()\l+ SyncData()\l+ Interpolation()\l}" alt="" coords="212,299,381,406"/>
+<area shape="rect" id="node4" href="$classlidar__imu__calib_1_1IMUData_1_1Orientation.html" title="{lidar_imu_calib::IMUData\l::Orientation\n|+ x\l+ y\l+ z\l+ w\l|+ Normlize()\l}" alt="" coords="19,5,188,141"/>
+<area shape="rect" id="node5" href="$structlidar__imu__calib_1_1IMUData_1_1AngularVelocity.html" title="{lidar_imu_calib::IMUData\l::AngularVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="212,13,381,134"/>
+<area shape="rect" id="node6" href="$structlidar__imu__calib_1_1IMUData_1_1LinearAcceleration.html" title="{lidar_imu_calib::IMUData\l::LinearAcceleration\n|+ x\l+ y\l+ z\l|}" alt="" coords="405,13,575,134"/>
+<area shape="rect" id="node7" href="$classlidar__imu__calib_1_1CloudData.html" title="{lidar_imu_calib::CloudData\n|+ time\l+ cloud_ptr\l|+ CloudData()\l}" alt="" coords="406,307,585,399"/>
+<area shape="rect" id="node8" href="$classlidar__imu__calib_1_1VelocityData.html" title="{lidar_imu_calib::VelocityData\n|+ time\l|+ TransformCoordinate()\l+ SyncData()\l}" alt="" coords="609,307,800,399"/>
+<area shape="rect" id="node9" href="$structlidar__imu__calib_1_1VelocityData_1_1LinearVelocity.html" title="{lidar_imu_calib::Velocity\lData::LinearVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="611,13,774,134"/>
+<area shape="rect" id="node10" href="$structlidar__imu__calib_1_1VelocityData_1_1AngularVelocity.html" title="{lidar_imu_calib::Velocity\lData::AngularVelocity\n|+ x\l+ y\l+ z\l|}" alt="" coords="798,13,961,134"/>
+</map>
